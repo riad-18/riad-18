@@ -25,8 +25,8 @@ I enjoy solving complex problems, learning new technologies, and transforming id
 
 ### Frontend Development
 - HTML5
-- CSS3
-- JavaScript (ES6+)
+- CSS
+- JavaScript 
 - React.js
 - Next.js
 
